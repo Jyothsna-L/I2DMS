@@ -16,3 +16,5 @@ I2DMS is a real-time computer vision system that monitors driver distraction (ph
 * **Computer Vision:** OpenCV, Ultralytics YOLOv8, MediaPipe Hands
 * **UI Framework:** NiceGUI
 * **Database:** SQLite3
+
+[Click here to read my project blog](https://jyo-blogs.blogspot.com/2026/08/i2dms-intelligent-in-cabin-driver.html)
